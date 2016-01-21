@@ -1,5 +1,3 @@
-# pluto-theme-submenu-support
-
 ## Adds submenu support for Pluto Wordpress theme
 
 Contains the original screen.css file as of v 2.3 which I edited to provide submenu support. Since v 1.2, users who encountered disappearing and non-clickable submenus were told that it is not supported. The developer only says it will be supported in the next update, if there is enough demand for it. You can read the comment thread at http://themeforest.net/item/pluto-fullscreen-cafe-and-restaurant/534738/comments
